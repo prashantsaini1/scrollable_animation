@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86
+description: Adds the functionality of swiping animations to Ti.UI.ScrollableView
+author: Prashant Saini
+license: Specify your license
+copyright: 2018 @ Prashant Saini
+
+# these should not be edited
+name: scrollable_animation
+moduleid: ti.scrollable.animation
+guid: 2d654431-3023-4fb8-a474-cbffa313d9b2
+platform: android
+minsdk: 7.1.1.GA
